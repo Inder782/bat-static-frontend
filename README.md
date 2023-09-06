@@ -1,3 +1,9 @@
+This is the Preview 
+
+
+![bat front](https://github.com/Inder782/bat-static-frontend/assets/124162738/2e2cd905-c01c-4b0e-8e4c-ae710d6c6df6)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
